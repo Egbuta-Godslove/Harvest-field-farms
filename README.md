@@ -43,7 +43,7 @@ By signing up for an account on Harvest Field, you will have the ability to cont
 
 ## Contribute
 
-If you would like to contribute to Harvest Field, we would be thrilled to have you on board! Please visit our [GitHub repository](https://github.com/harvestfield/harvestfield) to get started with contributing code or reporting issues.
+If you would like to contribute to Harvest Field, we would be thrilled to have you on board! Please visit our [GitHub repository](https://github.com/Egbuta-Godslove/Harvest-field-farms/tree/main) to get started with contributing code or reporting issues.
 
 ## License
 
