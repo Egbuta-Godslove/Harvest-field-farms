@@ -1,5 +1,6 @@
 # Harvest Field Farms
 
+![harvest field](https://github.com/Egbuta-Godslove/Harvest-field-farms/assets/118941659/6362bfbc-64e5-45a3-9b84-43352c7d6369)
 
 ## Introduction
 
